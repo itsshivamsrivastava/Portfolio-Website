@@ -14,7 +14,7 @@
 <p align="center"><img src="https://komarev.com/ghpvc/?username=itsshivamsrivastava&color=0F3460" alt="Shivam Srivastava" /></p>
 
 - 🌱 I'm currently learning **JavaScript & ReactJS**. 😊
-- 🌐 I’m looking Jobs or internships.
+- 🌐 I’m looking for Jobs or internships.
 - ⚡ Fun fact: I also create **Python Turtle Design** (but just sometimes 😜)
 
 ---
