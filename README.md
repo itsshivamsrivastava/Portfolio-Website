@@ -28,11 +28,10 @@
 
 ### 🐢 My Github Stats
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=itsshivamsrivastava&theme=dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-
 <div>
 <img align="center" alt = "Shivam Srivastava GITHUB STATS" src="https://github-readme-stats.vercel.app/api?username=itsshivamsrivastava&show_icons=true&theme=tokyonight"/>
 </div>
+<br>
 <div>
 <img align="center" alt = "Shivam Srivastava GITHUB STATS" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsshivamsrivastava&layout=compact&show_icons=true&theme=tokyonight"/>
 </div>
